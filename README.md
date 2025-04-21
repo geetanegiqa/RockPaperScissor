@@ -13,7 +13,11 @@ The result is displayed in the console.
 
 # How to Run
 Make sure you have Java installed.
+
 Compile the program:
+
   javac RockPaperScrissor.java
+
 Run the program:
+
   java RockPaperScrissor
